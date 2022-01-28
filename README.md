@@ -1,6 +1,8 @@
 # Water Filter
 A DIY water filter for water features/fountains etc
 
+I made my own after inheriting a water feature full of sludge ☹
+
 
 ## Requirements
 
@@ -18,6 +20,7 @@ I'm using 18V Ryobi batteries, for a couple reasons:
 - They're readily available and can be used in your cordless tools
 - They have a handy "fuel" gauge so you don't need a multimeter to check their voltage
 - You can buy low or high capacity variations
+- Handy if you don't have AC nearby or can't weatherproof it
 
 ![image](https://user-images.githubusercontent.com/38451588/151547161-c86d6e4b-1420-486f-ae8e-ef749639f5b1.png)
 
@@ -25,6 +28,13 @@ I'm using 18V Ryobi batteries, for a couple reasons:
 
 ### Pump 
 
-![image](https://user-images.githubusercontent.com/38451588/151546939-db17e221-0190-456d-8a22-4dae99e8cfc4.png)
+- 
+
+![image](https://user-images.githubusercontent.com/38451588/151547373-87a6ee5b-dcf4-43a4-93f4-96d86a81c3e3.png)
+
+
+### Mesh
+
+- This was added after the pump was sucking in the pantihose 🤣
 
 
